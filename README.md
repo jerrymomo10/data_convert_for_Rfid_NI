@@ -1,0 +1,2 @@
+# data_convert_for_Rfid_NI
+实验室的RFID项目,NI设备采的数据和软件信号分析不匹配，需要转换格式
