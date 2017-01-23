@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+/origin_data
+/result_data
+/all_data
