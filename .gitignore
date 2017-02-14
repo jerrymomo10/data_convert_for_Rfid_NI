@@ -36,3 +36,5 @@
 /result_data
 /all_data
 /save_data
+*.zip
+*.log
