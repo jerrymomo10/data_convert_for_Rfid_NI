@@ -3,3 +3,4 @@
 将原始文件夹里的txt文件和对应的csv文件生成新的格式的txt数据文件
 
 1.直接将整个文件夹放在all_data里即可在save_data里生成对应的结果
+2.sh conver_all_dir.sh
