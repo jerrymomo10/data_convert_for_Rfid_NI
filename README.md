@@ -4,6 +4,4 @@
 
 1.直接将整个文件夹放在all_data里即可在save_data里生成对应的结果
 2.sh conver_all_dir.sh
-
-## 原始文件夹名 文件名 不要有空格
-## .txt .csv文件名要对应 
+3.all_data文件夹里的文件夹，文件名不要有空格 .txt .csv文件名要对应 
